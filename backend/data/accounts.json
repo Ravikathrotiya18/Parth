@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "username": "john_doe",
+    "pin": "1234",
+    "balance": 2000,
+    "transactions": [
+      {
+        "sender": "john_doe",
+        "receiver": "jane_smith",
+        "amount": "1000",
+        "date": "5/22/2024, 7:25:43 AM"
+      },
+      {
+        "sender": "john_doe",
+        "receiver": "jane_smith",
+        "amount": "1000",
+        "date": "5/22/2024, 7:47:19 AM"
+      },
+      {
+        "sender": "john_doe",
+        "receiver": "jane_smith",
+        "amount": "1000",
+        "date": "5/22/2024, 7:48:18 AM"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "jane_smith",
+    "pin": "5678",
+    "balance": "8000.0010001000",
+    "transactions": [
+      {
+        "sender": "john_doe",
+        "receiver": "jane_smith",
+        "amount": "1000",
+        "date": "5/22/2024, 7:25:43 AM"
+      },
+      {
+        "sender": "john_doe",
+        "receiver": "jane_smith",
+        "amount": "1000",
+        "date": "5/22/2024, 7:47:19 AM"
+      },
+      {
+        "sender": "john_doe",
+        "receiver": "jane_smith",
+        "amount": "1000",
+        "date": "5/22/2024, 7:48:18 AM"
+      }
+    ]
+  }
+]
